@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 67.5%;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+#zegar{
+    display: grid;
+    place-items: center;
+    min-height: 90vh;
+    color: indigo;
+    font-size: 10em;
+}
